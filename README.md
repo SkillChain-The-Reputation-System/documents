@@ -8,4 +8,5 @@ All documents related to the thesis
 |Reputation Design|[archive/reputation-design.pdf](archive/reputation-design.pdf)|
 |Reputation Interpretation|[archive/reputation-interpretation.pdf](archive/reputation-interpretation.pdf)|
 |Portable Reputation Toolkit Use Cases|[archive/reputation-toolkit.pdf](archive/reputation-toolkit.pdf)|
+|REPUTABLE|[archive/REPUTABLE_-_A_Decentralized_Reputation_System_for_.pdf](archive/REPUTABLE_-_A_Decentralized_Reputation_System_for_.pdf)|
 
